@@ -1,8 +1,8 @@
 # Models
 
-**eNeuralFAM** is a hybrid online classification framework that combines shallow Artificial Neural Networks (ANNs) for feature extraction with Adaptive Resonance Theory (ART)-based classifiers for incremental learning on streaming data.
+**Ensemble ANN+FAM** is a hybrid online classification framework that combines shallow Artificial Neural Networks (ANNs) for feature extraction and mjaority voting for prediction with Adaptive Resonance Theory (ART)-based classifiers for incremental learning on streaming data.
 
-**eNeuralFusAM** is a hybrid online classification framewor that combines shallow Artifical Neural Networks (ANNs) for feature extraction with Fusion ARTMAP (FusAM)-based classifiers for incremental learning on streaming data.
+**Ensemble ANN+FusAM** is a hybrid online classification framework that combines shallow Artifical Neural Networks (ANNs) for feature extraction and mjaority voting for prediction with Fusion ARTMAP (FusAM)-based classifiers for incremental learning on streaming data.
 
 ## Description
 
