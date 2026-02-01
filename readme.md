@@ -29,8 +29,8 @@ The datasets used in this project can be downloaded from the [KEEL repository](h
 ## Evaluation Protocol
 
 The dataset is stratified/shuffled and split into 10 folds:
-- **Fold-0**: initialization (fit scalers, train ANN(s), train ART-based classifier)
-- **Folds 1–9**: online phase (predict on fold → record metrics → update model on the same fold)
+- **Fold-0**: initialization 
+- **Folds 1–9**: online phase 
 
 ## Requirements
 
